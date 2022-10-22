@@ -1,0 +1,25 @@
+{
+  "name": "notnodejs",
+  "version": "1.0.0",
+  "description": "User Management CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaustuvBhattarai/NotNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaustuvBhattarai/NotNodejs/issues"
+  },
+  "homepage": "https://github.com/KaustuvBhattarai/NotNodejs#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "inquirer": "^9.1.4",
+    "mongoose": "^6.6.7"
+  }
+}
